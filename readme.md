@@ -9,9 +9,9 @@ The square root appear first in with pythagorean theorem:
 
 
 ```js
-c * c = (a * a) + (a * a)
+c * c = (a * a) + (b * b)
 
-// if a = 1
+// if a = 1, b = 1
 c * c = (1 * 1) + (1 * 1)
 
 // if 1 * 1 = 1
